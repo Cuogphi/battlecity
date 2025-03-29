@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1743220200 source:d:\project\battlecity\main.cpp
+	<SDL.h>
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<limits>
+	<cctype>
+	<cmath>
+
