@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1743220200 source:d:\project\battlecity\main.cpp
+1743305581 source:d:\project\battlecity\main.cpp
 	<SDL.h>
+	<SDL_image.h>
 	<vector>
 	<string>
 	<iostream>
@@ -10,4 +11,5 @@
 	<limits>
 	<cctype>
 	<cmath>
+	<map>
 
