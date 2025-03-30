@@ -40,6 +40,9 @@
 			<Add library="gdi32" />
 			<Add library="winmm" />
 			<Add library="dxguid" />
+			<Add library="SDL2_image" />
+			<Add library="SDL2_mixer" />
+			<Add library="SDL2_ttf" />
 			<Add directory="C:/sdl/after/SDL2-2.30.0/x86_64-w64-mingw32/lib" />
 		</Linker>
 		<ExtraCommands>
